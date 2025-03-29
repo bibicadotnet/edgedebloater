@@ -1,1 +1,121 @@
-# edgedebloater
+<img src="https://github.com/user-attachments/assets/2f8a7dd2-b56c-4f9c-a7ca-8514c2f10533" width="120" />
+
+# Edge Debloater
+A debloat list that protects your privacy and security while maintaining functionality.
+
+## What it does?
+
+- **Hide First Run Experience** enabled.
+- **Search in Sidebar** set to `2`.
+- **Hubs Sidebar** disabled.
+- **Read Aloud** disabled.
+- **Diagnostic Data** disabled.
+- **Pin Browser Essentials Toolbar Button** disabled.
+- **Edge Collections** disabled.
+- **Personalization Reporting** disabled.
+- **Split Screen** disabled.
+- **Guided Switch** disabled.
+- **Microsoft Rewards** disabled.
+- **Auto Import at First Run** set to `4`.
+- **Edge Workspaces** disabled.
+- **Edge Wallet Checkout** disabled.
+- **Edge Wallet Etree** disabled.
+- **AAD Website SSO** disabled.
+- **Accessibility Image Labels** disabled.
+- **Microsoft Search in Bing for Address Bar** disabled.
+- **Allow Games Menu** disabled.
+- **Browser Add Profile** disabled.
+- **Browser Guest Mode** disabled.
+- **Compose Inline** disabled.
+- **Configure On-Premises Account Auto-Sign-In** disabled.
+- **Configure Online Text-to-Speech** disabled.
+- **Configure Share** disabled.
+- **Default Browser Settings Campaign** disabled.
+- **Edge 3P SERP Telemetry** disabled.
+- **Edge EDrop** disabled.
+- **Wallet Donation** disabled.
+- **Non-Removable Profile** disabled.
+- **Import on Each Launch** disabled.
+- **In-App Support** disabled.
+- **Local Browser Data Share** disabled.
+- **Live Captions** disabled.
+- **MSA Website SSO Allowed** disabled.
+- **Microsoft Edge Insider Promotion** disabled.
+- **Microsoft Editor Synonyms** disabled.
+- **Microsoft Editor Proofing** disabled.
+- **Related Website Sets** disabled.
+- **Payment Method Query** disabled.
+- **Pinning Wizard** disabled.
+- **Promotional Tabs** disabled.
+- **Quick Search Mini Menu** disabled.
+- **Quick View Office Files** disabled.
+- **Related Matches Cloud Service** disabled.
+- **Remote Debugging** disabled.
+- **Resolve Navigation Errors with Web Service** disabled.
+- **Roaming Profile Support** disabled.
+- **Search for Images** disabled.
+- **Search Filters** disabled.
+- **Search Suggest** enabled.
+- **Search Bar** disabled.
+- **Search Bar on Startup** disabled.
+- **Shared Links** disabled.
+- **Show Acrobat Subscription Button** disabled.
+- **Show Office Shortcut in Favorites Bar** disabled.
+- **Show Recommendations** disabled.
+- **Speech Recognition** disabled.
+- **Standalone Hubs Sidebar** disabled.
+- **Tab Services** disabled.
+- **Text Prediction** disabled.
+- **Upload from Phone** disabled.
+- **Visual Search** disabled.
+- **New Tab Page Search Box** set to `redirect`.
+- **Password Generator** disabled.
+- **Password Manager** disabled.
+- **Password Monitor** disabled.
+- **Password Protection Warning** disabled.
+- **Alternate Error Pages** disabled.
+- **Ask Before Close** disabled.
+- **Autofill Address** disabled.
+- **Autofill Credit Card** disabled.
+- **Autofill Memberships** disabled.
+- **AAD Web SSO Allowed** disabled.
+- **AI-Generated Themes** disabled.
+- **Access Code Cast** disabled.
+- **Additional DNS Query Types** disabled.
+- **Ads Transparency** disabled.
+- **Edge Admin Center** disabled.
+- **Bing Ads Suppression** enabled.
+- **Do Not Track** configured.
+- **Edge Asset Delivery Service** disabled.
+- **Edge Shopping Assistant** disabled.
+- **Experimentation and Configuration Service** disabled.
+- **Network Prediction** disabled.
+- **User Feedback** disabled.
+- **Web Widget** disabled.
+- **Typosquatting Checker** disabled.
+- **Signin Interception** disabled.
+- **Side Search** disabled.
+- **Show PDF Default Recommendations** disabled.
+- **Show Home Button** disabled.
+- **Shopping List** disabled.
+- **Safe Browsing Surveys** disabled.
+- **Safe Browsing Deep Scanning** disabled.
+- **Safe Browsing Proxied Real-Time Checks** disabled.
+- **Password Dismiss Compromised Alert** disabled.
+- **MAM** disabled.
+- **Edge Management** disabled.
+- **Desktop Sharing Hub** disabled.
+- **Copilot Page Context** disabled.
+- **New Tab Page Content** disabled.
+- **New Tab Page App Launcher** disabled.
+- **New Tab Page Bing Chat** disabled.
+- **New Tab Page Quick Links** disabled.
+- **QR Code Generator** disabled.
+- **Translate** disabled.
+- **Spotlight Experiences and Recommendations** disabled.
+
+## Suggestions
+
+- **Translate**: [Edge Translate](https://github.com/EdgeTranslate/EdgeTranslate) or [TWP](https://github.com/FilipePS/Traduzir-paginas-web)
+- **Password Manager**: [Bitwarden](https://chromewebstore.google.com/detail/bitwarden-parola-y%C3%B6netici/nngceckbapebfimnlniiiahkandclblb)
+- **VPN**: [Proton VPN](https://chromewebstore.google.com/detail/proton-vpn-fast-secure/jplgfhpmjnbigmhklmmbgecoobifkmpa)
